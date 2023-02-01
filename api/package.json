@@ -15,7 +15,7 @@
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.4",
     "@offset-dev/strapi-calendar": "^0.0.8",
     "@strapi/plugin-graphql": "^4.5.0",
-    "@strapi/plugin-i18n": "4.5.0",
+    "@strapi/plugin-i18n": "4.5.6",
     "@strapi/plugin-seo": "^1.7.7",
     "@strapi/plugin-users-permissions": "4.5.0",
     "@strapi/strapi": "4.5.0",
